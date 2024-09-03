@@ -1,0 +1,16 @@
+#fav-food {
+    text-align: center;
+}
+
+.fav-food-list {
+    list-style: none;
+    padding: 0;
+}
+
+.fav-food-list li {
+    display: inline-block;
+    margin: 10px;
+    background: #eee;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
